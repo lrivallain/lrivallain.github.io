@@ -90,6 +90,6 @@ exclude:
 
 #theme: jekyll-theme-dinky
 
-paginate: 5
+#paginate: 5
 #paginate_path: "/page:num"
 
