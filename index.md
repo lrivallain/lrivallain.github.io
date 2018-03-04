@@ -1,6 +1,7 @@
 ---
 layout: resume
 title: Resume
+redirect_from: "/resume/"
 ---
 
 ## Contents
