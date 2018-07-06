@@ -1,5 +1,5 @@
 
 # Ludovic Rivallain
-## VMware sysadmin
+## Senior Virtualization engineer @GroupeSII
 
-https://lrivallain.github.io/
+https://lri.ovh

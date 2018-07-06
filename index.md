@@ -1,6 +1,7 @@
 ---
 layout: resume
 title: Resume
+redirect_from: "/resume/"
 ---
 
 ## Contents
@@ -12,6 +13,7 @@ title: Resume
 ## Contacts
 * twitter: [@lrivallain ↗](https://twitter.com/lrivallain)
 * linkedin: [ludovicrivallain ↗](https://www.linkedin.com/in/ludovicrivallain)
+* vExpert profile: [Rivallain Ludovic ↗](https://vexpert.vmware.com/directory/1741)
 
 ----
 
