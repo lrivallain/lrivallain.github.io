@@ -2,7 +2,7 @@
 layout: post
 title: vCenter - changer le mot de passe de base de données
 redirect_to:
-    - https://vuptime.io
+    - https://vuptime.io/2014/07/18/vcenter-changer-le-mot-de-passe-de-base-de-donnees/
 category: VMWare
 tags: database dbuser password vcenter vmware
 ---

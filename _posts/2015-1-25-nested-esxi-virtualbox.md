@@ -2,7 +2,7 @@
 layout: post
 title: Nested VMware ESXi with virtualbox
 redirect_to:
-    - https://vuptime.io
+    - https://vuptime.io/2015/01/25/nested-esxi-virtualbox/
 category: VMWare
 tags: esx esxi nested ssh virtualbox vmware
 ---

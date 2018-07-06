@@ -2,7 +2,7 @@
 layout: post
 title: VMware - VCSA or PSC appliance won't boot after hard shutdown
 redirect_to:
-    - https://vuptime.io
+    - https://vuptime.io/2017/05/10/VMware-VCSA-PSC-wont-boot/
 category: VMware
 tags: vmware psc vcsa boot fsck
 ---

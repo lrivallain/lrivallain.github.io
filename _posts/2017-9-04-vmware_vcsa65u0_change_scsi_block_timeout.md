@@ -2,7 +2,7 @@
 layout: post
 title: VMware - VCSA 6.5u0 or PSC appliance - change SCSI block timeout
 redirect_to:
-    - https://vuptime.io
+    - https://vuptime.io/2017/09/04/vmware_vcsa65u0_change_scsi_block_timeout/
 category: VMware
 tags: vmware scsi fsck psc vcsa boot timeout
 ---

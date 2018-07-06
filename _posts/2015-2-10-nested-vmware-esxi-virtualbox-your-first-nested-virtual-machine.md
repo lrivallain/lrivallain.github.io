@@ -2,7 +2,7 @@
 layout: post
 title: Nested VMware ESXi with virtualbox - Your first nested-virtual-machine
 redirect_to:
-    - https://vuptime.io
+    - https://vuptime.io/2015/02/10/nested-vmware-esxi-virtualbox-your-first-nested-virtual-machine/
 category: VMWare
 tags: datastore dummy esxi firewall nested ovftool vim-cmd virtualbox vmware vmx vnc
 ---

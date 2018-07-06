@@ -2,7 +2,7 @@
 layout: post
 title: PowerCli - Mise à jour du VMX de templates de machines virtuelles
 redirect_to:
-    - https://vuptime.io
+    - https://vuptime.io/2014/05/12/powercli-mise-jour-du-vmx-de-templates-de-machines-virtuelles/
 category: VMWare PowerShell
 tags: powercli powershell template vmware vmx
 ---
