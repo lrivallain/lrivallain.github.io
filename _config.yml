@@ -80,11 +80,7 @@ plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-paginate # pagination support for jekill 3
-<<<<<<< HEAD
   - jekyll-redirect-from # For blog redirects
-=======
-  - jekyll-redirect-from
->>>>>>> 1122582faa72c98ebd3ce05da2b5892ccfffd044
 
 # Exclude these files from your production _site
 exclude:
