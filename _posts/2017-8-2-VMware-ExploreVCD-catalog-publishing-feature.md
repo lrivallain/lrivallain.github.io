@@ -1,6 +1,8 @@
 ---
 layout: post
 title: VMware - Explore vCloud Director catalog publishing feature
+redirect_to:
+    - https://vuptime.io
 category: VMware
 tags: vmware curl catalog vcloud vcd
 ---

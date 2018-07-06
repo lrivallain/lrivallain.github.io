@@ -1,6 +1,8 @@
 ---
 layout: post
 title: VMware - Patch the vCloud Director cacerts file
+redirect_to:
+    - https://vuptime.io
 category: VMware
 tags: vmware vcd vcloud java jre certificate
 ---

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Openstack - Deploy training labs
+redirect_to:
+    - https://vuptime.io
 category: Openstack
 tags: script openstack training helper
 ---

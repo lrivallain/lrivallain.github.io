@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Openstack - Migrate keystone endpoint URL
+redirect_to:
+    - https://vuptime.io
 category: Openstack
 tags: openstack keystone endpoint
 ---

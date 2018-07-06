@@ -1,6 +1,8 @@
 ---
 layout: post
 title: VMware - Use GuestInfo variables to customize a guest OS
+redirect_to:
+    - https://vuptime.io
 category: VMWare
 tags: customization guestinfo guestos powercli template vmware vmx
 ---

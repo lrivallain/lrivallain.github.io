@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Make powershell a bit less ugly
+redirect_to:
+    - https://vuptime.io
 category: PowerShell
 tags: powershell script windows
 ---

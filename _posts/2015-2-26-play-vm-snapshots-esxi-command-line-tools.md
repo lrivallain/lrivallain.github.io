@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Play with VM snapshots and linked-clones with ESXi command line tools
+redirect_to:
+    - https://vuptime.io
 category: VMWare
 tags: clone esx esxi linked snapshot vim-cmd vm vmware
 ---

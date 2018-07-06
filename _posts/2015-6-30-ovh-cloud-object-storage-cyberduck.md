@@ -1,6 +1,8 @@
 ---
 layout: post
 title: OVH Cloud - Object Storage with cyberduck
+redirect_to:
+    - https://vuptime.io
 category: Cloud
 tags: cloud cyberduck object ovh public storage swift
 ---

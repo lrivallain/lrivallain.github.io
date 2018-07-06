@@ -1,6 +1,8 @@
 ---
 layout: post
 title: VMware - Dive into OVF properties
+redirect_to:
+    - https://vuptime.io
 category: VMware
 tags: script linux vmware ovf customization
 ---

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: VMware - PowerCLI 6.5.1 Cheat Sheet
+redirect_to:
+    - https://vuptime.io
 category: VMware
 tags: vmware powercli cheatsheet sii
 ---

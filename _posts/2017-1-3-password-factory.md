@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Password factory
+redirect_to:
+    - https://vuptime.io
 category: Bash
 tags: script linux security bash
 ---
