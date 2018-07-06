@@ -134,6 +134,10 @@ Pre-sales consulting and documentation of automated platforms for validation.
 
 ## Trainings / Exams
 
+### VMware vCloud Director: Install, Configure, Manage [V8.20] (Custom)
+
+*October 2017*
+
 ### OpenStack administrator
 
 *May 2017*
@@ -142,7 +146,7 @@ Pre-sales consulting and documentation of automated platforms for validation.
 
 *March 2017*
 
-### VMware vCloud Director: Install, Configure, Manage (8.10)
+### VMware vCloud Director: Install, Configure, Manage [V8.10] (Custom)
 
 *November 2016*
 
