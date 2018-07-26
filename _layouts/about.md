@@ -10,6 +10,4 @@ layout: default
     {{ content }}
   </div>
 
-  <h2>Archives by tags</h2>
-  {% include archive.html %}
 </article>
