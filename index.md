@@ -1,6 +1,5 @@
 ---
 layout: resume
-title: Resume
 redirect_from: "/resume/"
 ---
 
@@ -27,12 +26,13 @@ redirect_from: "/resume/"
 
 **VMware Senior Consultant:**
 * Engineering and level 3 support:
-  * vRA : vRealize Automation
-  * vRO : Realize Orchestrator
-  * vCAN : vCloud Air Network programm and vCloud Usage Meter
-  * vCSA : vCenter Appliance
-  * NSX : Network Virtualization and Security
-* Intermediary for editor support request
+  * vRA: vRealize Automation
+  * vRO: Realize Orchestrator
+  * vCPP: VMware Cloud Provider Program and vCloud Usage Meter
+  * vCSA: vCenter Appliance
+  * NSX: Network Virtualization and Security
+  * vCD: vCloud Director + Extensions building
+* Intermediary for editor support requests
 
 **Cloud Computing Consultant:**
 * Support for "On Premise → Cloud" migration
@@ -43,7 +43,7 @@ redirect_from: "/resume/"
 **Trainer** for (both internal and external public):
 * Cloud Computing generic training sessions 
 * Junior VMware training sessions
-* Public Cloud	approach sessions
+* Public Cloud approach sessions
 * OpenStack user and administrator sessions
 
 
@@ -134,6 +134,12 @@ Pre-sales consulting and documentation of automated platforms for validation.
 
 # Education
 
+## Recognition
+
+### vExpert program
+
+★ 2018, ★ 2019
+
 ## Trainings / Exams
 
 ### VMware vCloud Director: Install, Configure, Manage [V8.20] (Custom)
@@ -174,11 +180,12 @@ Pre-sales consulting and documentation of automated platforms for validation.
 
 * VMware
   * ESXi, vCenter, vCSA & Operations management
-  * NSX
-  * vCloud Director
+  * NSX-v, NSX-T
+  * vCloud Director + Extensions of both API and UI
   * vRealize Automation
-  * Realize Orchestrator
-  * VSPP & vCAN licensings - vCloud Usage Meter
+  * vRealize Orchestrator
+  * vRealize Lifecycle Manage
+  * VCPP licensings - vCloud Usage Meter
   * VMware Site Recovery Manager
 * Openstack (Nova, Neutron, Keystone, Cinder, Swift, Glance, Horizon...)
 * OpenVZ
@@ -193,13 +200,13 @@ Pre-sales consulting and documentation of automated platforms for validation.
 
 **Programming:**
 
-* Bash addict
+* Python addict
+* Bash addict too
 * Powershell enthusiast
-* Python addict too (+Django)
 * Perl
 * TCL/Expect
 * Web (HTML, JS, CSS)
-* Git, SVN
+* Git
 
 **Networking:**
 
@@ -219,9 +226,9 @@ Pre-sales consulting and documentation of automated platforms for validation.
 
 * Scrum / Agile
 * DevOps:
-  * Ansible, Puppet
+  * Ansible, Puppet, Terraform
   * Shinken
-  * REST programming
+  * REST API programming
 
 # Self interests
 

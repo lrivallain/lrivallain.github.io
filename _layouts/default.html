@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title2 %}{{ page.title2 }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
     {% include meta.html %}
 
     <!--[if lt IE 9]>
@@ -16,9 +16,6 @@
   </head>
 
   <body>
-	{% if site.tags != "" %}
-      {% include collecttags.html %}
-  	{% endif %}
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
@@ -31,7 +28,6 @@
 
           <nav>
             <a href="http://vuptime.io">vUptime.io</a>
-            <!--<a href="/resume/">Resume</a>-->
             <a href="/about/">About</a>
           </nav>
         </header>

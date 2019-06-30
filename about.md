@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title2: About
 ---
 
 I am currently senior Virtualisation Engineer+SysAdmin in **[SII Group](http://www.groupe-sii.com)**, a French IT
