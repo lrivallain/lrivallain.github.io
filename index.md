@@ -13,6 +13,7 @@ redirect_from: "/resume/"
 * twitter: [@lrivallain ↗](https://twitter.com/lrivallain)
 * linkedin: [ludovicrivallain ↗](https://www.linkedin.com/in/ludovicrivallain)
 * vExpert profile: [Rivallain Ludovic ↗](https://vexpert.vmware.com/directory/1741)
+* Github profile: [github.com/lrivallain ↗](https://github.com/lrivallain/)
 
 ----
 
@@ -25,7 +26,10 @@ redirect_from: "/resume/"
 *July 2016 – now (Rennes, France)*
 
 **VMware Senior Consultant:**
-* Engineering and level 3 support:
+
+> Attached to the *Infrastructure Experts* entity, I guide our customers in the think and build operations related to cloud computing solutions. I especially contribute to the	realization of *Cloud Providers* platforms and I am in charge of the automation for final customers solutions.
+
+* **Engineering** and level 3 support:
   * vRA: vRealize Automation
   * vRO: Realize Orchestrator
   * vCPP: VMware Cloud Provider Program and vCloud Usage Meter
@@ -40,7 +44,7 @@ redirect_from: "/resume/"
 * Information System architect
 * R&D OpenStack
 
-**Trainer** for (both internal and external public):
+**Trainer** for (*both internal and external public*):
 * Cloud Computing generic training sessions 
 * Junior VMware training sessions
 * Public Cloud approach sessions
@@ -58,7 +62,7 @@ Creation and managing of operations teams for OVH cloud offers:
 * 12 peoples between Rennes, Tunis, Montreal, Roubaix
 * 3 products : (3000*) Dedicated Cloud, (80 000*) Virtual Private Server, Desk as a Service
 * 24/7 service with planning management
-* Virtualization tech-leader role
+* Virtualization *tech-leader* role
 
 **Dedicated Cloud:**
 
@@ -101,15 +105,15 @@ Think & build & support to run, of Orange Business France Cloud Computing offers
 
 * Level 3 support: analysis, editor's cases management
 * Incident management
-* Massive migrations and functionnal changes studies
+* Massive migrations and functional changes studies
 
 ## Web qualification engineer
 
 ### @ [SII Group ↗](http://groupe-sii.com) 
 
-*January 2007 – December 2009 (Lannion, France)*
+*January 2007 – December 2010 (Lannion, France)*
 
-Technical and functionnal validations of several products:
+Technical and functional validations of several products:
 
 * DLNA based server
 * Dojo Toolkit framework (AJAX, CSS, HTML)
@@ -138,37 +142,27 @@ Pre-sales consulting and documentation of automated platforms for validation.
 
 ### vExpert program
 
-★ 2018, ★ 2019
+★ 2018, ★ 2019, ★ 2020 (+ Cloud Provider sub program)
 
 ## Trainings / Exams
 
-### VMware vCloud Director: Install, Configure, Manage [V8.20] (Custom)
+* 2020 – Amazon Web Services Architecture
+* 2019 – VMware NSX-T: Install Configure & Manage
+* 2019 – VMware vSphere: Optimize & Scale
+* 2017 – OpenStack administrator
+* 2017 – VMware vCloud Director: Install, Configure, Manage [V8.20] (Custom)
+* 2017 – VMware vRealize Automation: Install, Configure, Manage [v7.2]
+* 2016 – VMware vCloud Director: Install, Configure, Manage [V8.10] (Custom)
+* 2012 – VMware vSphere: Install, Configure, Manage
+  * 🏅 VMware VCP-DCV Certification
 
-*October 2017*
-
-### OpenStack administrator
-
-*May 2017*
-
-### VMware vRealize Automation (7.2)
-
-*March 2017*
-
-### VMware vCloud Director: Install, Configure, Manage [V8.10] (Custom)
-
-*November 2016*
-
-### 🏅 VMware VCP - Install configure and manage (5.0)
-
-*September 2012*
-
-## Professional degree, Voice over IP and systems administration
+## Bachelor degree, Voice over IP and systems administration
 
 ### @ IUT Lannion
 
 *2005 – 2006 (Lannion, France)* 🏅
 
-## University degree, Telecom & networks
+## Undergraduate degree, Telecom & networks
 
 ### @ IUT Lannion
 
@@ -200,12 +194,9 @@ Pre-sales consulting and documentation of automated platforms for validation.
 
 **Programming:**
 
-* Python addict
-* Bash addict too
+* Python and Bash addict
 * Powershell enthusiast
-* Perl
-* TCL/Expect
-* Web (HTML, JS, CSS)
+* Perl, TCL/Expect, Web (HTML, JS, CSS)
 * Git
 
 **Networking:**
@@ -232,6 +223,11 @@ Pre-sales consulting and documentation of automated platforms for validation.
 
 # Self interests
 
+Owner and main author of [vuptime.io](https://vuptime.io) blog: focused on virtualization \& IT automation.
+
+Speaker and active member of French VMUG (VMware User Group).
+
+Other interests:
 * Rock climbing
 * Canoe-kayak
 * Music festivals 🎵
