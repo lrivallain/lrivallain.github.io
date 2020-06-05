@@ -3,9 +3,7 @@ layout: resume
 redirect_from: "/resume/"
 ---
 
-## Technical blog
-
-### [vUptime.io](https://vuptime.io)
+[![vUptime.io](./images/vuptime.io.png)](https://vuptime.io)
 
 ## Contents
 * [Experiences](#experiences)
