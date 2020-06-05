@@ -10,10 +10,10 @@ redirect_from: "/resume/"
 * [Self interests](#self-interests)
 
 ## Contacts
-* twitter: [@lrivallain ↗](https://twitter.com/lrivallain)
-* linkedin: [ludovicrivallain ↗](https://www.linkedin.com/in/ludovicrivallain)
+* Twitter: [@lrivallain ↗](https://twitter.com/lrivallain)
+* Linkedin: [ludovicrivallain ↗](https://www.linkedin.com/in/ludovicrivallain)
 * vExpert profile: [Rivallain Ludovic ↗](https://vexpert.vmware.com/directory/1741)
-* Github profile: [github.com/lrivallain ↗](https://github.com/lrivallain/)
+* Github: [github.com/lrivallain ↗](https://github.com/lrivallain/)
 
 ----
 
