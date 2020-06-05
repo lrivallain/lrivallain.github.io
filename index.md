@@ -5,7 +5,7 @@ redirect_from: "/resume/"
 
 <div style="text-align:center;">
   <a href="https://vuptime.io">
-    <img alt="vUptime.io"src="./images/vuptime.io.png" />
+    <img alt="vUptime.io" src="./images/vuptime.io.png" />
   </a>
 </div>
 
