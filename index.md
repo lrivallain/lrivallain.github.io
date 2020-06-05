@@ -3,6 +3,10 @@ layout: resume
 redirect_from: "/resume/"
 ---
 
+## Technical blog
+
+### [vUptime.io](https://vuptime.io)
+
 ## Contents
 * [Experiences](#experiences)
 * [Education](#education)
@@ -27,7 +31,7 @@ redirect_from: "/resume/"
 
 **VMware Senior Consultant:**
 
-> Attached to the *Infrastructure Experts* entity, I guide our customers in the think and build operations related to cloud computing solutions. I especially contribute to the	realization of *Cloud Providers* platforms and I am in charge of the automation for final customers solutions.
+> Attached to the *Infrastructure Experts* entity, I guide our customers in the *think and build* operations related to cloud computing solutions. I especially contribute to the realization of *Cloud Providers* platforms and I am in charge of the automation for final customers-facing solutions.
 
 * **Engineering** and level 3 support:
   * vRA: vRealize Automation + XaaS
@@ -53,12 +57,15 @@ redirect_from: "/resume/"
 **Example of projects:**
 
 * **Think/Build/Run of a Storage-as-a-service extension for VMware vCloud Director**
-  * Backend: vCD API extension: Multi-threaded python service for automation orchestration
-  * Frontend: vCD UI extension: Angular based UI published to tenant for self-service storage management.
+  * Backend: vCD API extension: Multi-threaded Python service for automation orchestration
+  * Frontend: vCD UI extension: Angular-based UI published to tenants for self-service storage management
   * Continuous-Integration pipeplines based on *Gitlab CI*, *Swagger* documentation of the REST API. Some vRO based automation for network provisioning.
+* **UI for Container Service Extension for VMware vCloud Director**
+  * Frontend: vCD UI extension: Angular-based UI published to tenants for self-service Kubernetes cluster management
+  * Continuous-Integration pipeplines based on *Gitlab CI*, *Reverse engineering* of CSE API backend and CLI client.
 * **Hybridation of vRealize Automation with a new public cloud provider**
-  * Integration of a not natively supported public cloud provider within vRA UI
-  * vRealize Orchestrator *Dynamic Types*, API integration, Openstack Heat helpers.
+  * Integration of a non-natively supported public cloud provider within vRA UI
+  * vRealize Orchestrator *Dynamic Types*, API integration, OpenStack Heat helpers.
 * **XaaS development for vCloud Director and vRealize Automation**
   * Multiple kind of automation services provided to end-users through vCD or vRA UI or API: storage, network, backup, migration, quota management…
   * vRealize Orchestrator, API integrations, NSX, multiple NAS and backup solutions…
@@ -85,13 +92,13 @@ Creation and managing of operations teams for OVH cloud offers:
 **Virtual Private Server:**
 
 * ~80 000 VPS (VMware, Openstack, OpenVZ)
-* Shinken based monitoring
+* Shinken-based monitoring
 * Massive migrations, capacity planning
 
 **Desk as a Service:**
 
 * Launch of the commercial offer based on VMware Horizon View
-* Shinken based monitoring (NRPE) + OpenTSDB Timeseries
+* Shinken-based monitoring (NRPE) + OpenTSDB Timeseries
 
 ## VMware junior consultant
 
