@@ -3,7 +3,11 @@ layout: resume
 redirect_from: "/resume/"
 ---
 
-[![vUptime.io](./images/vuptime.io.png)](https://vuptime.io)
+<div style="text-align:center;">
+  <a href="https://vuptime.io">
+    <img alt="vUptime.io"src="./images/vuptime.io.png" />
+  </a>
+</div>
 
 ## Contents
 * [Experiences](#experiences)
