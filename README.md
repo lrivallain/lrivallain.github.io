@@ -1,5 +1,5 @@
 
 # Ludovic Rivallain
-## Senior Virtualization engineer @GroupeSII
+## Senior Virtualization engineer
 
 https://ludovic.rivallain.fr
