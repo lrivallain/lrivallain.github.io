@@ -167,9 +167,10 @@ Pre-sales consulting and documentation of automated platforms for validation.
 
 ## Trainings / Exams
 
+* 2020 – VMware vSphere: Optimize & Scale [V7]
 * 2020 – Amazon Web Services Architecture
 * 2019 – VMware NSX-T: Install Configure & Manage
-* 2019 – VMware vSphere: Optimize & Scale
+* 2019 – VMware vSphere: Optimize & Scale [V6.7]
 * 2017 – OpenStack administrator
 * 2017 – VMware vCloud Director: Install, Configure, Manage [V8.20] (Custom)
 * 2017 – VMware vRealize Automation: Install, Configure, Manage [v7.2]
