@@ -168,6 +168,7 @@ Pre-sales consulting and documentation of automated platforms for validation.
 ## Trainings / Exams
 
 * 2020 – VMware vSphere: Optimize & Scale [V7]
+  * 🏅 VMware Certified Professional - Data Center Virtualization 2020
 * 2020 – Amazon Web Services Architecture
 * 2019 – VMware NSX-T: Install Configure & Manage
 * 2019 – VMware vSphere: Optimize & Scale [V6.7]
@@ -176,7 +177,7 @@ Pre-sales consulting and documentation of automated platforms for validation.
 * 2017 – VMware vRealize Automation: Install, Configure, Manage [v7.2]
 * 2016 – VMware vCloud Director: Install, Configure, Manage [V8.10] (Custom)
 * 2012 – VMware vSphere: Install, Configure, Manage
-  * 🏅 VMware VCP-DCV Certification
+  * 🏅 VMware Certified Professional 5 - Data Center Virtualization
 
 ## Bachelor degree, Voice over IP and systems administration
 
