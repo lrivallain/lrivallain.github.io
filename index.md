@@ -165,6 +165,8 @@ Pre-sales consulting and documentation of automated platforms for validation.
 
 ★ 2018, ★ 2019, ★ 2020 (+ Cloud Provider sub program)
 
+<img alt="vExpert Cloud Provider" style="width:250px;" src="./images/vexpert-cloud-provider-2020-badge.png"/>
+
 ## Trainings / Exams
 
 * 2020 – VMware vSphere: Optimize & Scale [V7]
