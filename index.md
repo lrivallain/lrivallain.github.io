@@ -53,7 +53,7 @@ redirect_from: "/resume/"
 
 **Cloud Computing Consultant:**
 * Technical solutions engineer
-  * Working closely with sales, customers, development teams
+* Working closely with sales, customers, development teams
 * Support for "On Premise → Cloud" migration
 * Providing best practices for Cloud usage
 * Systems architect
@@ -67,7 +67,7 @@ redirect_from: "/resume/"
 **Example of projects:**
 
 * **Think and build** of multiple automation solutions for a *Cloud Provider* company
-  * Design and development of complex automation solutions to provide:
+  * Design and development of complex automation solutions to provide
     * additional customer self-service solutions (quota management, security services…)
     * backend systems automation (automated backup policies, observability…)
   * Design of a new automation stack (K8s, FaaS, Argo workflow)
@@ -208,6 +208,19 @@ Pre-sales consulting and documentation of automated platforms for validation.
 
 # Skills
 
+**Modern applications**
+
+* Kubernetes
+  * Rancher, K3S, Tanzu Kubernetes Grid
+  * Kubectl, Helm, Cluster API
+  * Service Mesh: Istio, Linkerd
+* Middlewares
+  * OpenFaaS, AWSLambda
+  * Prometheus, Grafana
+  * Argo Workflows
+  * Traefik, HAProxy
+* Observability and event-driven infrastruc-tures
+
 **Virtualization:**
 
 * VMware
@@ -269,4 +282,4 @@ Other interests:
 * Rock climbing
 * Canoe-kayak
 * Music festivals 🎵
-* Open-source
+* Open-source: Ansible, Kubernetes and K8S related projects
