@@ -35,6 +35,13 @@ redirect_from: "/resume/"
 
 > Attached to the *Infrastructure Experts* entity, I guide our customers in the *think and build* operations related to cloud computing solutions. I especially contribute to the realization of *Cloud Providers* platforms and I am in charge of the automation for final customers-facing solutions.
 
+* **Automation engineer**
+  * Kubernetes deployments ([Rancher](https://rancher.com/), [K3S](https://k3s.io/), [Tanzu Kubernetes Grid](https://tanzu.vmware.com/fr/kubernetes-grid))
+  * Function-as-a-service (FaaS) solutions: [OpenFaaS](https://www.openfaas.com/), [Argo](https://argoproj.io/), [AWS Lambda](https://aws.amazon.com/fr/lambda/)
+  * VMware vRealize Orchestrator
+  * [Ansible](https://www.ansible.com/), [Terraform](https://www.terraform.io/)
+  * CI/CD: GitHub Actions, GitLab CI, Travis, VMware code Stream
+
 * **Engineering** and level 3 support:
   * vRA: vRealize Automation + XaaS
   * vRO: Realize Orchestrator
@@ -45,10 +52,11 @@ redirect_from: "/resume/"
 * Intermediary for editor support requests
 
 **Cloud Computing Consultant:**
+* Technical solutions engineer
+  * Working closely with sales, customers, development teams
 * Support for "On Premise → Cloud" migration
 * Providing best practices for Cloud usage
-* Information System architect
-* R&D OpenStack
+* Systems architect
 
 **Trainer** for (*both internal and external public*):
 * Cloud Computing generic training sessions 
@@ -58,6 +66,11 @@ redirect_from: "/resume/"
 
 **Example of projects:**
 
+* **Think and build** of multiple automation solutions for a *Cloud Provider* company
+  * Design and development of complex automation solutions to provide:
+    * additional customer self-service solutions (quota management, security services…)
+    * backend systems automation (automated backup policies, observability…)
+  * Design of a new automation stack (K8s, FaaS, Argo workflow)
 * **Think/Build/Run of a Storage-as-a-service extension for VMware vCloud Director**
   * Backend: vCD API extension: Multi-threaded Python service for automation orchestration
   * Frontend: vCD UI extension: Angular-based UI published to tenants for self-service storage management
@@ -206,7 +219,7 @@ Pre-sales consulting and documentation of automated platforms for validation.
   * vRealize Lifecycle Manage
   * VCPP licensings - vCloud Usage Meter
   * VMware Site Recovery Manager
-* Openstack (Nova, Neutron, Keystone, Cinder, Swift, Glance, Horizon...)
+* Openstack (Nova, Neutron, Keystone, Cinder, Swift, Glance, Horizon…)
 * OpenVZ
 * Docker & Linux LXC
 * Linux KVM and XEN
@@ -214,7 +227,7 @@ Pre-sales consulting and documentation of automated platforms for validation.
 **Systems:**
 
 * Windows Server (SQL server, Active Directory, KMS, WSUS)
-* Linux (Apache, Nginx, MySQL, PostgreSQL...)
+* Linux (Apache, Nginx, MySQL, PostgreSQL…)
 * MacOS X
 
 **Programming:**
