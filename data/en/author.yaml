@@ -1,0 +1,18 @@
+# some information about you
+name: "Ludovic Rivallain"
+nickname: "Ludo"
+image: "images/lrivallain.png"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "ludovic (dot) rivallain (@) gmail.com"
+#  phone: "+33"
+
+# a summary of what you do
+summary:
+- I am a Senior Virtualization engineer
+- I work with VMware products and Kubernetes
+- I love automating everything !

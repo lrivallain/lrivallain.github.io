@@ -1,0 +1,27 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Modern applications
+  summary: Design and deploy K8S and event-driven based infrastructures.
+- name: Virtualization
+  summary: Deploy and manage VMware products, Cloud Management platforms, OpenStack…
+- name: Systems
+  summary: Use most popular Operating Systems (Linux, Windows Server, MacOS)
+- name: Programming
+  summary: Python and bash addict. Powershell enthusiast.
+- name: Networking
+  summary: Fluent with most concepts of networking and networking security.
+- name: Hardware
+  summary: Work experience with Dell, Cisco and HPE server blades
+- name: Methodology
+  summary: Scrum/Agile, DevOps

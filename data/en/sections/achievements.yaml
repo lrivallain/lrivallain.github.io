@@ -1,0 +1,23 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: vExpert program
+  #image: images/vexpert.png
+  summary: ★ 2018, ★ 2019, ★ 2020 (+ Cloud Provider sub program)
+- title: Certification
+  summary: 🏅 VMware Certified Professional - Data Center Virtualization 2020
+- title: Graduation
+  #image:
+  summary: Bachelor degree, Voice over IP and systems administration
+- title: Graduation
+  #image: images/achievements/woman-winner.jpg
+  summary: Undergraduate degree, Telecom & networks

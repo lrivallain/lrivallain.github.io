@@ -1,0 +1,67 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Senior Virtualization engineer
+# your company information
+company:
+  name: SII Group
+  url: "https://sii-group.com/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/CV___Ludovic_Rivallain.pdf"
+
+# a summary about you
+summary: 'I am a passionate senior Virtualization engineer with 13 years of working experience. I belong to an *Infrastructure Experts* entity, to guide our customers in their cloud journey. I offer guidance and best practices recommendations, and I design, test and validate infrastructures that suit customers needs.<br><br>I also maintain a technical blog: [vuptime.io](https://vuptime.io) focused on virtualization & IT automation.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/lrivallain"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/ludovicrivallain"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/lrivallain"
+
+- name: vExpert
+  icon: "fas fa-award"
+  url: "https://vexpert.vmware.com/directory/1741"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+# you can also provide color code instead of pre-defined color name
+softSkills:
+- name: Fast Learner
+  percentage: 100
+  color: green
+- name: Problem Solving
+  percentage: 100
+  color: yellow
+- name: Assertiveness
+  percentage: 100
+  color: blue
+- name: Team Work
+  percentage: 100
+  color: orange
+- name: Communication
+  percentage: 100
+  color: pink
+- name: Creativity
+  percentage: 100
+  color: sky

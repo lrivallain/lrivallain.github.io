@@ -1,0 +1,76 @@
+# section information
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: SII Group.
+    url: "https://sii-group.com/"
+    location: Rennes & Bordeaux, France
+    # company overview
+    overview: SII Group is a digital services company with an international dimension with a wide geographic coverage with 88 locations spread over 4 continents.
+  positions:
+  - designation: VMware Senior Consultant
+    start: July 2016
+    responsibilities:
+    - Attached to the *Infrastructure Experts* entity, I guide our customers in the think and build operations related to cloud computing solutions. I especially contribute to the realization of Cloud Providers platforms and I am in charge of the automation for final customers-facing solutions.
+    - Engineering and level 3 support
+    - Automation of Cloud Provider platforms
+    - "Consulting: Working closely with sales, customers, development teams"
+    - Trainer for VMware products, Cloud Computing introdution, OpenStack user and administrator
+
+- company:
+    name: OVH
+    url: "http://ovh.com/"
+    location: Rennes, France
+    overview: OVH is a French cloud computing company that offers VPS, dedicated servers and other web services. OVH owns the world's largest data center in surface area. They are the largest hosting provider in Europe, and the third largest in the world based on physical servers.
+  positions:
+  - designation: Tech-leader private-cloud operations
+    start: November 2014
+    end: July 2016
+    responsibilities:
+    - Creation and management of operations teams for OVH cloud offers
+    - Virtualization tech-leader role
+    - 24/7 on-duty service with planning management
+
+- company:
+    name: SII Group.
+    url: "https://sii-group.com/"
+    location: Lannion & Rennes, France
+    # company overview
+    overview: SII Group is a digital services company with an international dimension with a wide geographic coverage with 88 locations spread over 4 continents.
+  positions:
+  - designation: VMware junior consultant
+    start: January 2011
+    end: November 2014
+    responsibilities:
+    - Think & build & support to run, of Orange Business France Cloud Computing offers.
+    - VMware trainer for internal employees and customers.
+
+  - designation: Web qualification engineer
+    start: January 2007
+    end: December 2010
+    responsibilities:
+    - Technical and functional validations of several products
+    - Creation of validation platforms and test protocols
+
+- company:
+    name: One Access Networks
+    url: "http://www.oneaccess-net.com/"
+    location: Paris, France
+    # company overview
+    overview: Global network virtualization specialist helping operators & service providers to deploy agile, open NFV.
+  positions:
+  - designation: Protocol qualification engineer
+    start: April 2006
+    end: December 2006
+    responsibilities:
+    - Network protocol validation of multi-protocols routers
+    - Pre-sales consulting and documentation of automated platforms for validation
