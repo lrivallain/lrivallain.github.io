@@ -11,13 +11,20 @@ section:
 # Your achievements achievements
 achievements:
 - title: vExpert program
-  #image: images/vexpert.png
-  summary: ★ 2018, ★ 2019, ★ 2020 (+ Cloud Provider sub program)
-- title: Certification
-  summary: 🏅 VMware Certified Professional - Data Center Virtualization 2020
-- title: Graduation
-  #image:
-  summary: Bachelor degree, Voice over IP and systems administration
-- title: Graduation
-  #image: images/achievements/woman-winner.jpg
-  summary: Undergraduate degree, Telecom & networks
+  summary: |
+    * ★ 2018
+    * ★ 2019
+    * ★ 2020 (+ Cloud Provider sub-program)
+
+    Please have a look to my [vExpert profile](https://vexpert.vmware.com/directory/1741) page
+- title: 🏅 Certification
+  summary: |
+    VMware Certified Professional
+
+      * Data Center Virtualization 2020
+      * Data Center Virtualization 5
+  
+- title: Graduations
+  summary: |
+    * **Bachelor degree**: Voice over IP and systems administration (IUT Lannion, 2006)
+    * **Undergraduate degree**: Telecom & networks (IUT Lannion, 2005)

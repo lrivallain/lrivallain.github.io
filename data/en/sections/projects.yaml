@@ -1,70 +1,11 @@
 # section information
 section:
-  name: Hobbies
+  name: Projects
   id: projects
   enable: true
-  weight: 5
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
-# filter buttons
-buttons:
-- name: All
-  filter: "all"
-- name: VMware
-  filter: "vmware"
-- name: Open Source
-  filter: "oss"
-- name: Others
-  filter: "others"
-
-# your projects
-projects:
-
-- name: vUptime.io Blog
-  logo: /images/favicon.png
-  role: Owner
-  url: "https://vuptime.io"
-  summary: "My technical blog focused on virtualization & IT automation."
-  tags: ["oss", "hobby", "blog"]
-
-- name: Ansible - VMware modules
-  #logo:
-  role: Contributor
-  #timeline: "March 2018 - Present"
-  repo: https://github.com/ansible-collections/community.vmware/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Creation of Ansible modules for VMware vCenter management.
-  tags: ["oss", "hobby", "automation", "vmware", "ansible"]
-
-- name: vro-package-diff
-  role: Owner
-  repo: https://github.com/lrivallain/vro-package-diff
-  summary: A diff tool for VMware vRealize Orchestrator packages files
-  tags: ["oss", "hobby", "automation", "vmware"]
-
-- name: vcdextproxy
-  role: Owner
-  repo: https://github.com/lrivallain/vcdextproxy
-  summary: An AMQP to REST proxy for VMware vCloud Director Extensions
-  tags: ["oss", "hobby", "automation", "vmware"]
-
-- name: VcdExtMessageWorker
-  role: Owner
-  repo: https://github.com/lrivallain/VcdExtMessageWorker
-  summary: RabbitMQ message worker for vCloud Director Extensibility SDK
-  tags: ["oss", "professional", "automation", "vmware"]
-
-- name: vrocli
-  role: Owner
-  repo: https://github.com/lrivallain/vrocli
-  summary: vRealize Orchestrator command line interface
-  tags: ["oss", "professional", "automation", "vmware"]
-
-- name: Self interests
-  summary: "
-    Rock climbing,
-    Canoe-kayak,
-    Music festivals 🎵"
-  tags: ["others"]
+# no additional configuration is required

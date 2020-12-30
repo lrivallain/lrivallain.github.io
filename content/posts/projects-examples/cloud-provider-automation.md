@@ -2,12 +2,13 @@
 title: Automation solutions for Cloud Provider
 description: "Think and build of multiple automation solutions for a Cloud Provider company"
 date: 2020-12-26
+type: example-project
 #hero: /images/posts/writing-posts/code.svg
 menu:
   sidebar:
     name: Automations for a cloud provider company
     identifier: cloud-provider-automation
-    parent: project-examples
+    parent: Projects examples
     weight: 30
 ---
 

@@ -1,13 +1,14 @@
 ---
 title: "Storage as a Service for vCloud Director"
 date: 2020-12-25
+type: example-project
 description: Think/Build/Run of a Storage-as-a-service extension for VMware vCloud Director
 #hero: /images/posts/writing-posts/code.svg
 menu:
   sidebar:
     name: Storage as a Service for vCloud Director
     identifier: storage-as-a-service-extension
-    parent: project-examples
+    parent: Projects examples
     weight: 20
 ---
 
