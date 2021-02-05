@@ -1,0 +1,10 @@
+.training-section ul.timeline {
+  list-style-type: none;
+  margin-top: 2em;
+  border-left: 3px solid #248aaa;
+  margin-left: 10%;
+}
+
+.training-section ul.timeline li {
+  min-height: 2em;
+}

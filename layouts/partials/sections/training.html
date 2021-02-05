@@ -1,0 +1,19 @@
+{{ $sectionID := replace (lower .section.name) " " "-" }}
+{{ if .section.id }}
+{{ $sectionID = .section.id }}
+{{ end }}
+
+<div class="container-fluid anchor pb-5 training-section" id="{{ $sectionID }}">
+    {{ if not (.section.hideTitle) }}
+    <h1 class="text-center">{{ .section.name }}</h1>
+    {{ end }}
+    <div class="container text-justify">
+        <div class="row d-flex">
+            <ul class="timeline">
+            {{ range .trainings }}
+                <li><b>{{ .year }}</b>: {{ .name }}</li>
+            {{ end }}
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,30 @@
+# section information
+section:
+  name: Trainings
+  id: training
+  enable: true
+  weight: 5
+  showOnNavbar: true
+
+# Your trainings.
+trainings:
+- name: "VMware vRealize Automation: Install, Configure, Manage [V8.0]"
+  year: 2021
+- name: "VMware vSphere: Optimize & Scale [V7]"
+  year: 2020
+- name: "Amazon Web Services Architecture"
+  year: 2020
+- name: "VMware NSX-T: Install Configure & Manage"
+  year: 2019
+- name: "VMware vSphere: Optimize & Scale [V6.7]"
+  year: 2019
+- name: "OpenStack administrator"
+  year: 2017
+- name: "VMware vCloud Director: Install, Configure, Manage [V8.20] (Custom)"
+  year: 2017
+- name: "VMware vRealize Automation: Install, Configure, Manage [V7.2]"
+  year: 2017
+- name: "VMware vCloud Director: Install, Configure, Manage [V8.10] (Custom)"
+  year: 2016
+- name: "VMware vSphere: Install, Configure, Manage [V5]"
+  year: 2012
