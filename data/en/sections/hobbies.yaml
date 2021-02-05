@@ -29,6 +29,13 @@ projects:
   summary: "My technical blog focused on virtualization & IT automation."
   tags: ["oss", "hobby", "blog"]
 
+- name: My Kubernetes Book
+  logo: /images/kubernetes_logo.svg
+  role: Owner
+  url: "https://k8s-book.vupti.me/"
+  summary: "A modest collection of tips/commands/tools related to <b>#k8s</b>"
+  tags: ["kubernetes", "hobby", "blog", "oss"]
+
 - name: Ansible - VMware modules
   #logo:
   role: Contributor
