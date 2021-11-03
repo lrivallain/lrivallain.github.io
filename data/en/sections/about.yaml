@@ -7,17 +7,17 @@ section:
   showOnNavbar: true
 
 # your designation
-designation: Senior Virtualization engineer
+designation: Cloud Solution Architect
 # your company information
 company:
-  name: SII Group
-  url: "https://sii-group.com/"
+  name: Microsoft
+  url: "https://microsoft.com/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/CV___Ludovic_Rivallain.pdf"
 
 # a summary about you
-summary: 'I am a passionate senior Virtualization engineer with 13 years of working experience. I belong to an *Infrastructure Experts* entity, to guide our customers in their cloud journey. I offer guidance and best practices recommendations, and I design, test and validate infrastructures that suit customers needs.<br><br>I also maintain a technical blog: [vuptime.io](https://vuptime.io) focused on virtualization & IT automation.'
+summary: 'I am a passionate Cloud Solution Architect with 14 years of working experience. I belong to the Customer Success Unit, to guide our customers in their cloud journey. I offer guidance and best practices recommendations, and I design, test and validate infrastructures that suit customers needs.<br><br>I also maintain a technical blog: [vuptime.io](https://vuptime.io) focused on virtualization & IT automation.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -26,7 +26,7 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/lrivallain"
 
-- name: Stackoverflow
+- name: Stack-overflow
   icon: "fab fa-stack-overflow"
   url: "#"
 

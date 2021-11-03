@@ -11,6 +11,30 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Microsoft
+    url: "https://www.microsoft.com/"
+    location: Bordeaux, France
+    # company overview
+    # overview: Claranetprovides network, hosting and managed application services in most European contries and Brazil.
+  positions:
+  - designation: Cloud Solution Architect
+    start: November 2021
+
+- company:
+    name: Claranet
+    url: "https://www.claranet.fr/"
+    location: Bordeaux, France
+    # company overview
+    overview: Claranet provides network, hosting and managed application services in most European contries and Brazil.
+  positions:
+  - designation: VMware Senior Engineer
+    start: September 2021
+    end: October 2021
+    responsibilities:
+    - Design the next automated unified "Cloud Provider" platform
+    - Engineering and level 3 support
+
+- company:
     name: SII Group.
     url: "https://sii-group.com/"
     location: Rennes & Bordeaux, France
@@ -19,6 +43,7 @@ experiences:
   positions:
   - designation: VMware Senior Consultant
     start: July 2016
+    end: August 2021
     responsibilities:
     - Attached to the *Infrastructure Experts* entity, I guide our customers in the think and build operations related to cloud computing solutions. I especially contribute to the realization of Cloud Providers platforms and I am in charge of the automation for final customers-facing solutions.
     - Engineering and level 3 support
