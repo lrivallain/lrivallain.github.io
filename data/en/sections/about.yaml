@@ -33,6 +33,10 @@ socialLinks:
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/ludovicrivallain"
+  
+- name: Mastodon
+  icon: "fab fa-mastodon"
+  url: "https://mastodon.social/@lrivallain"
 
 - name: Twitter
   icon: "fab fa-twitter"
