@@ -24,9 +24,6 @@
     <link rel="stylesheet" href="{{ "/assets/css/sections/recent-posts.css" | relURL }}"/>
     <link rel="stylesheet" href="{{ "/assets/css/sections/achievements.css" | relURL }}"/>
     
-    <!-- Mastodon -->
-    <a rel="me" href="https://mastodon.social/@lrivallain">Mastodon</a>
-
     <!-- Add Google Analytics if enabled in configuration -->
     {{ if site.GoogleAnalytics }}
         {{ template "_internal/google_analytics_async.html" . }}
@@ -78,5 +75,7 @@
     <script src="{{ "/assets/js/github-button.js" | relURL }}"></script>
     <script src="{{ "/assets/js/home.js" | relURL }}"></script>
     <script src="{{ "/assets/js/jquery.filterizr.min.js" | relURL }}"></script>
+        <!-- Mastodon -->
+    <a rel="me" href="https://mastodon.social/@lrivallain"></a>
   </body>
 </html>
